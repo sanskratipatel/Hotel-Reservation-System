@@ -1,6 +1,6 @@
 # Hotel Reservation System with JDBC
 
-This project is a Hotel Reservation System developed using Java with JDBC for database connectivity. It implements CRUD (Create, Read, Update, Delete) operations to manage hotel reservations.
+This project is a Hotel Reservation System developed using Java with JDBC for database connectivity. It implements CRUD  operations to manage hotel reservations.
 
 ## Project Overview
 
